@@ -14,5 +14,7 @@ People:
   Age: 42
 ...
 --- #This is the start of a new document in YAML
-item1: item1value
-item2: item2value
+Number: 254
+Float: 3.142
+String: This is a String!
+Quoted String: "A string can be quoted"
