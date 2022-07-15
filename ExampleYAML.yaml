@@ -1,0 +1,18 @@
+---
+People:
+- Id: 1
+  FirstName: James
+  LastName: Wilson
+  Age: 29
+- Id: 2
+  FirstName: Bob
+  LastName: Marls
+  Age: 27
+- Id: 3
+  FirstName: Danny
+  LastName: Travis
+  Age: 42
+...
+--- #This is the start of a new document in YAML
+item1: item1value
+item2: item2value
