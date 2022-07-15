@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8?>"
+<People>
+
+    <Person Id="1">
+        <FirstName>James</FirstName>
+        <LastName>Wilson</LastName>
+        <Age>29</Age>
+    </Person>
+
+    <Person Id="2">
+        <FirstName>Bob</FirstName>
+        <LastName>Marls</LastName>
+        <Age>27</Age>
+    </Person>
+
+    <Person Id="3">
+        <FirstName>Danny</FirstName>
+        <LastName>Travis</LastName>
+        <Age>42</Age>
+    </Person>
+
+</People>
