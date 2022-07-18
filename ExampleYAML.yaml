@@ -17,4 +17,6 @@ People:
 Number: 254
 Float: 3.142
 String: This is a String!
-Quoted String: "A string can be quoted"
+QuotedString: "A string can be quoted"
+Boolean: True
+...
