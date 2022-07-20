@@ -1,5 +1,4 @@
-from xml.etree.ElementTree import etree as ET
-
+from lxml import etree as ET
 # Get the XML Data
 stream = open('ExampleXML.xml','r')
 
@@ -16,4 +15,4 @@ for e in root:
     for i in e:
         print(ET.tostring(i))
     print("")
-    
+
